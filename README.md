@@ -1,1 +1,2 @@
 # Cryptocurrencies
+The purpose of this analysis is to help clients who are getting ready to get into the cryptocurrency market. We have created a report of cryptocurrencies on the trading market. Because there are no known outputs, we have used unsupervised machine learning for this analysis. With the model, we built a classification system that groups cryptocurrencies accordingly. We built clustering algorithms to fulfill this purpose. 
